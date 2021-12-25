@@ -1,0 +1,22 @@
+list of for loops:
+
+for loop:
+
+eg:
+for(let i = 5; i <= 7; i++) {
+  console.log(i);
+}
+
+ for-in:
+eg:
+ for(let prop in icon) {
+	console.log(prop);
+}
+eg:
+for-of:
+
+for(let i of "String")
+	console.log(i);
+
+
+for each class was not done.

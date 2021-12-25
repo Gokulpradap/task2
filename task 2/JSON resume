@@ -1,0 +1,55 @@
+{
+  "basics": {
+    "name": "Gokulpradap M",
+    "label": "",
+    "picture": "",
+    "email": "gokulmari96@gmail.com",
+    "phone": "+91-7845536140.",
+    "degree": "",
+    "website": "https://github.com/Gokulpradap",
+    "summary": "Now I'm learning full stock developement with guvi.",
+    "location": {
+      "address": "4/69, Kaliyamman kovil street, Maharajapuram post, watrap taluk.",
+      "postalCode": "626149",
+      "city": "Virudhunagar",
+      "countryCode": "India(+91)",
+      "region": "Tamilnadu"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Gokulpradap marichamy",
+        "url": "https://www.linkedin.com/in/gokulpradap-marichamy-bbb529209/"
+      }
+    ]
+  },
+  
+  "education": [
+    {
+      "institution": "PMR Engineering college",
+      "area": "B.E Mechanical engineer",
+      "studyType": "Full time",
+      "startDate": "aug-2013",
+      "endDate": "june 2017",
+      "gpa": "6.6",
+      
+    }
+  ],
+
+  
+  "skills": [
+    {
+      "name": "Full stock developer",
+      "level": "beginner",
+      "keywords": [
+        "Keywords under this category (html5, css, javascript, react, mongo DB, Node js, AWS.)"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Tamil, English",
+      "fluency": "good"
+    }
+  ],
+}
